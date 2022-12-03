@@ -1,2 +1,2 @@
 # Responsive-Glass-Sidebar
-projeto Responsivo Glass Sidebar usando CSS e JavaScript 
+simple academic project using css & javascript
